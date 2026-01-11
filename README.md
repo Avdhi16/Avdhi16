@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Hi, I'm Avdhi 👋  
 
 ### Software Engineer II | Backend / Full-Stack Engineer  
@@ -59,4 +58,3 @@ Distributed Systems, Multithreading, Caching, System Design, Performance Enginee
 
 > “Build things that matter. Make them simple. Make them last.”
 
--->
