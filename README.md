@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Avdhi 👋  
 
 ### Software Engineer II | Backend / Full-Stack Engineer  
